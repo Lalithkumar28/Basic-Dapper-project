@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X2ehfnoKV6GJ2Tlk2Ft8zSQEDaGe+mn5xNsyhDd6HK8=",
+  "Source": "api-task",
+  "BasePath": "_content/api-task",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
